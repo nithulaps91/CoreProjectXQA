@@ -1,0 +1,45 @@
+{
+    "textBox": [{
+        "fullname": "Nithula",
+        "email": "nithula@gmail.com",
+        "currentaddress": "Kakkanad, Kochi",
+        "permanantaddress": "Thrissur, kerala"
+    },
+    {
+        "fullname": "Santhosh",
+        "email": "santhos@gmail.com",
+        "currentaddress": "Dubai, UAE",
+        "permanantaddress": "Thrissur, kerala"
+    },
+    {
+        "fullname": "Janvi",
+        "email": "jani@gmail.com",
+        "currentaddress": "Palakkad, Kerala",
+        "permanantaddress": "Anjoor, Thrissur"
+    }],
+    "checkBox": {
+        "selectedcheckbox": "excelFile"
+    },
+    "webtablesearch": {
+        "searchname": ["Vega", "Compliance", "2000"],
+        "deleterecord": "Kierra"
+    },
+    "studentdata": {
+        "firstname": "Thanmaya",
+        "lastname": "EP",
+        "studentemail": "thanu@gmail.com",
+        "gender": "Female",
+        "mobile": "2233445566",
+        "dob": "2013-10-21",
+        "uploadfile": "C:/Users/Nithula/OneDrive/Pictures/kids.png",
+        "currentaddress": "Dubai, UAE",
+        "state": "Rajasthan",
+        "city": "Noida"
+    },
+    "datePicker": {
+        "date": "2021-10-21"
+    },
+    "dateAndTimePicker": {
+        "dateTime": "2026-10-21T14:30"
+    }
+}
